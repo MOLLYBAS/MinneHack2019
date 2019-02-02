@@ -1,3 +1,2 @@
 # MinneHack2019
-
-Arman Shah
+# Authors: Sierra, Arman and Molly
